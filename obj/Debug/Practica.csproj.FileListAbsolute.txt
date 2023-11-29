@@ -1,0 +1,8 @@
+C:\Users\pablo\Desktop\parcial poo\Practica\bin\Debug\Practica.exe.config
+C:\Users\pablo\Desktop\parcial poo\Practica\bin\Debug\Practica.exe
+C:\Users\pablo\Desktop\parcial poo\Practica\bin\Debug\Practica.pdb
+C:\Users\pablo\Desktop\parcial poo\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\parcial poo\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Desktop\parcial poo\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\parcial poo\Practica\obj\Debug\Practica.exe
+C:\Users\pablo\Desktop\parcial poo\Practica\obj\Debug\Practica.pdb
